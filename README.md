@@ -1,0 +1,1 @@
+# dlopen-polymorphic-class
